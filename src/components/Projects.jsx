@@ -37,7 +37,7 @@ const Projects = () => {
     {
       id: 2,
       name: 'VIA-Story Web App',
-      date: 'Jul. 2025',
+      date: 'Jul. 2024',
       type: 'Individual Project',
       description: 'Modern photography website with clean, responsive design',
       features: [

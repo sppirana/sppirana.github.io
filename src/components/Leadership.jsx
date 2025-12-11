@@ -60,7 +60,7 @@ const Leadership = () => {
           {/* Section Title */}
           <motion.div variants={itemVariants} className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold font-heading mb-4">
-              Leadership <span className="text-gradient">&amp; Experience</span>
+              Leadership <span className="text-gradient">& Experience</span>
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-primary-600 to-secondary-600 mx-auto rounded-full mb-4"></div>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">

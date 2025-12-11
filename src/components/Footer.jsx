@@ -82,10 +82,10 @@ const Footer = () => {
             <p className="text-gray-400 text-sm flex items-center justify-center space-x-2">
               <span>Built with</span>
               <FaHeart className="text-red-500 animate-pulse" />
-              <span>using React &amp; Tailwind CSS</span>
+              <span>using React & Tailwind CSS</span>
             </p>
             <p className="text-gray-500 text-sm">
-              &copy; {currentYear} Piranavan Sivanesan. All rights reserved.
+              © {currentYear} Piranavan Sivanesan. All rights reserved.
             </p>
           </motion.div>
 
